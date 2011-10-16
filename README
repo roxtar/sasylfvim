@@ -1,0 +1,18 @@
+SaSYLF Syntax Higlighting in Vim
+https://github.com/roxtar/sasylfvim
+
+This plugin does basic syntax highlighting for SaSYLF
+(http://www.cs.cmu.edu/~aldrich/SASyLF/) in Vim.
+
+INSTALLATION 
+
+1. Extract the files in the directories "syntax", "ftdetect" and "ftplugin"
+into the corresponding directories in "~/.vim"
+
+2. Add the following line to your ".vimrc" file
+
+    filetype plugin on
+
+AUTHOR
+
+Rohit Kumar (roxtar@gmail.com)
