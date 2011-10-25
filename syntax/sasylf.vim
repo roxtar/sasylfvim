@@ -21,12 +21,12 @@ syn match sDerivation /[a-zA-Z_][a-zA-Z0-9_]*:/
 syn region sCommentL start="/\*" end="\*/" extend
 
 
-hi def link sComment Comment
-hi def link sCommentL Comment
 hi def link sKeyword Statement 
 hi def link sConditional Conditional
 hi def link sBar Special
 hi def link sDerivation Identifier 
+hi def link sComment Comment
+hi def link sCommentL Comment
 let b:current_syntax = "sasylf"
 
 " vim: ts=4
