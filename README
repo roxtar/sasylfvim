@@ -1,8 +1,8 @@
 SaSYLF Syntax Higlighting in Vim
 https://github.com/roxtar/sasylfvim
 
-This plugin does basic syntax highlighting for SaSYLF
-(http://www.cs.cmu.edu/~aldrich/SASyLF/) in Vim.
+This plugin does basic syntax highlighting for SaSYLF [1] in Vim.
+
 
 INSTALLATION 
 
@@ -12,6 +12,11 @@ into the corresponding directories in "~/.vim"
 2. Add the following line to your ".vimrc" file
 
     filetype plugin on
+
+REFERENCES
+
+[1]: http://www.cs.cmu.edu/~aldrich/SASyLF/
+
 
 AUTHOR
 
